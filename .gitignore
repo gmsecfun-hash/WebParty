@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+*.log
+.claude/settings.local.json
+*.zip
+!webparty_extension_v1.0.zip
